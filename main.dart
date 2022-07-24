@@ -10,13 +10,13 @@ void main() async {
   // if (kIsWeb) {
   //   await Firebase.initializeApp(
   //     options: const FirebaseOptions(
-  //       apiKey: "AIzaSyCXgBJYEqzU163gcfH8_v-0ySEuSxYX12Y",
-  //       authDomain: "attaand-19a30.firebaseapp.com",
-  //       projectId: "attaand-19a30",
-  //       storageBucket: "attaand-19a30.appspot.com",
-  //       messagingSenderId: "1085631263056",
-  //       appId: "1:1085631263056:web:4896cf4e6b4dc92fc87c55",
-  //       measurementId: "G-YWCPG6HFHR",
+  //       apiKey: "",
+  //       authDomain: "",
+  //       projectId: "",
+  //       storageBucket: "",
+  //       messagingSenderId: "",
+  //       appId: "",
+  //       measurementId: "",
   //     ),
   //   );
   // } else {
